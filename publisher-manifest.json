@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c9255f46a1ae246b66a007d1",
+  "owner": "uedepyts",
+  "repo": "page-229d84d5c1d0361c1b37f558",
+  "title": "U",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "229d84d5c1d0361c1b37f558",
+      "a": "U",
+      "b": "2027最新官网",
+      "entity": "U",
+      "brand": "U",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d71f1eed8f43fb509127289e6c0cc85eca29a7e4e5e8e15a5013d362d362a490",
+      "content": {
+        "primary_entity": "U",
+        "keyword1": "U",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows 与 macOS 可用 Clash Verge，iOS 可用 Shadowrocket，Android 可用 v2rayNG，路由器可刷 OpenWrt 配合 PassWall。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先确认设备数量与月流量，再对照旗舰版或团队版下单，配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺手",
+          "AI_DESCRIPTION": "，U 提供基础版、旗舰版与团队版三档套餐，分别对应 100GB、300GB 与 1000GB 月流量，以及 3 台、5 台与 20 台设备在线额度。旗舰版与团队版面向多设备用户和流媒体需求，团队版额外支持企业定制路由。按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合按实际用量逐步升级。",
+          "AI_FEATURES_INTRO": "从月流量、设备数量和线路类型三个维度对比，快速找到匹配日常使用的档位。",
+          "AI_FEATURES_TITLE": "三档套餐核心差异",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与全节点原生解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，可定制路由并配专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按用途选档",
+          "AI_GUIDE_INTRO": "先明确需求，再核对适配，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "U 提供基础版、旗舰版与团队版三档方案，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，按年付价格分别 ¥150、¥350 与 ¥850，方便按实际用量选择。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 台至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版适合多设备流媒体与游戏加速，团队版面向小型团队高带宽需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确定日常月流量与同时在线设备数，再对照三档套餐权益做出选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看订阅格式和系统版本是否满足要求。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅链接，完成节点选择与连接测试。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "按需挑选加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台；团队版每月 1000GB，支持 20 台。按年付基础版 ¥150，旗舰版 ¥350，团队版 ¥850，可按设备数量与流量需求选择。",
+          "AI_FAQ_ANSWER_2": "每个套餐标明了同时在线设备数量，基础版 3 台、旗舰版 5 台、团队版 20 台。可在不同设备上分别配置订阅，但请遵循对应套餐的在线设备上限。",
+          "AI_FAQ_ANSWER_3": "建议根据常用设备和月流量估算。手机加电脑轻度使用可选基础版；需要流媒体与游戏优化可选旗舰版；多设备或团队协作推荐团队版。",
+          "AI_FAQ_ANSWER_4": "Windows 与 macOS 可用 Clash Verge，iOS 用 Shadowrocket，Android 用 Clash Meta，路由器可参考 OpenWrt 相关文档。导入订阅后按客户端提示完成配置。",
+          "AI_FAQ_ANSWER_5": "支持按月或按年付费，按年付更优惠，例如旗舰版 ¥350/年。具体开通与续费方式可参照购买链接中的说明操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "应该怎么选择适合自己的套餐？",
+          "AI_FAQ_QUESTION_4": "常用设备分别用什么客户端？",
+          "AI_FAQ_QUESTION_5": "支持哪些付费周期？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq803as1x1reh4x.com",
+    "host": "xn--9kq803as1x1reh4x.com"
+  },
+  "file_hashes": {
+    "index.html": "07d0dab546c1f76451bb10228ccd92a33e0937d2307d4f896a0557b36a59a6d6",
+    "sitemap.xml": "7a88f6891f317c6cd087b18936df6497b669056385e5d2321849402f8a7920b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cd50296cd273c95c1eb0944c9b90904d152628ca3e00defc46a24b078c5aa4ef",
+    "robots.txt": "66597f06ac662c40ba0bf459abd09e1b3456e28b60a0293ace23c5dfb53dac2a",
+    "7521300ae80cd06c48e467891050e8f3.txt": "5f64935c8d40dc4e52896497d3c2c0fea1b156fd8aeeef7f55fe6973b39fc54c"
+  },
+  "revision": "01e1bde02f44b42ec99799430d4f5056e604e8c439d7667f046cc6b5ec1c8927"
+}
